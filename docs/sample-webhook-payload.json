@@ -1,0 +1,12 @@
+{
+  "nome": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "empresa": "Acme Energy Corp",
+  "departamento": "Engineering",
+  "cargo": "Analyst",
+  "celular": "15555550123",
+  "telefone": "15555550000",
+  "aceite": ["1"],
+  "_wpcf7": "FORM_ID_PLACEHOLDER_1",
+  "_wpcf7_version": "5.9.8"
+}
